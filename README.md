@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="results/spatial_banner.png" width="720" />
+</p>
+
 # Path planning with A* and RRT on occupancy grids
 
 A* finds a 29-waypoint route through the bundled 15 by 15 maze when it may only move along the four
